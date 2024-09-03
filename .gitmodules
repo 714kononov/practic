@@ -1,0 +1,3 @@
+[submodule "education"]
+	path = education
+	url = https://github.com/714kononov/education.git
